@@ -1,0 +1,21 @@
+# Site settings
+title: Alberto Pastor Moreno
+description: Alberto Pastor Moreno personal portfolio
+baseurl: "" # the subpath of the site
+url: "https://albertopastormr.github.io/" 
+
+# User settings
+username: Alberto Pastor Moreno
+user_description: Teamwork, hard work and the imperative desire to perform at the best level are the core for me as an everyday learner who never stop working
+out for reaching my greatest personal version.
+user_title: Computer Science student
+email: albertopastormr@gmail.com
+twitter_username: albertopastormr
+github_username:  albertopastormr
+gplus_username:  albertopastormr
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']

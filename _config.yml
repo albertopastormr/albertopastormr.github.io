@@ -1,18 +1,18 @@
 # Site settings
-title: Alberto Pastor Moreno
-description: Alberto Pastor Moreno personal portfolio
+title: Alberto Pastor
+description: Alberto Pastor personal portfolio
 baseurl: "" # the subpath of the site
 url: "https://albertopastormr.github.io/" 
-
+avatar: "/assets/img/favicon.ico"
 # User settings
-username: Alberto Pastor Moreno
+username: Alberto Pastor
 user_description: Teamwork, hard work and the imperative desire to perform at the best level are the core for me as an everyday learner who never stop working
 out for reaching my greatest personal version.
 user_title: Computer Science student
 email: albertopastormr@gmail.com
-twitter_username: albertopastormr
-github_username:  albertopastormr
-gplus_username:  albertopastormr
+twitter_username: /albertopastormr
+github_username:  /albertopastormr
+gplus_username:  /albertopastormr
 
 # Google-analytics
 google-analytics:

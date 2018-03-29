@@ -6,7 +6,7 @@ url: "https://albertopastormr.github.io/"
 avatar: "/assets/img/favicon.ico"
 # User settings
 username: Alberto Pastor Moreno
-user_description: Teamwork, hard work and the imperative desire to perform at the best level are the core for me as an everyday learner who never stop working out for reaching my greatest personal version.
+user_description: Passionate software developer who loves to design simple solutions for complex real-world problems through upcoming technologies and agile methodologies. Teamwork, hard work and the imperative desire to perform at the best level are the core for me as an everyday learner who never stop working out for reaching my greatest personal version.
 user_title: Computer Science student
 email: albertopastormr@gmail.com
 twitter_username: albertopastormr
@@ -27,6 +27,7 @@ l_my-github: https://github.com/albertopastormr
 # Github repos links
 l_gh-ifesoft: https://github.com/albertopastormr/ifesoft
 l_gh-particle: https://github.com/nrandecker/particle
+l_gh-particle-author: https://github.com/nrandecker
 
 
 # Google-analytics

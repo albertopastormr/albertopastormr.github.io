@@ -19,13 +19,14 @@ medium_username: /albertopastormr
 l_cs-degree: https://informatica.ucm.es/estudios/grado-ingenieriadelsoftware
 # Social networks links
 l_my-email: mailto:albertopastormr@gmail.com
-l_my-twitter: https://twitter.com/{{ include.twitter_username}}
-l_my-gplus: https://plus.google.com/u/0{{include.gplus_username}}
-l_my-github: https://github.com/{{ include.github_username}}
+l_my-twitter: https://twitter.com/twitter_username
+l_my-gplus: https://plus.google.com/u/0{{gplus_username}}
+l_my-github: https://github.com/{{page.github_username}}
  #class="ref-link"
 
 # Github repos links
 l_gh-ifesoft: https://github.com/albertopastormr/ifesoft
+l_gh-particle: https://github.com/nrandecker/particle
 
 
 # Google-analytics

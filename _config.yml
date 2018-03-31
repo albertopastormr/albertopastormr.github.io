@@ -23,7 +23,9 @@ l_my-email: mailto:albertopastormr@gmail.com
 l_my-twitter: https://twitter.com/albertopastormr
 l_my-gplus: https://plus.google.com/u/0/103154106735689134313
 l_my-github: https://github.com/albertopastormr
- #class="ref-link"
+l_my-instagram: https://instagram.com/albertopastormr
+l_my-linkedin: https://www.linkedin.com/in/albertopastormr/
+ #class="ref-link" a utilizar para projects
 
 # Github repos links
 l_gh-ifesoft: https://github.com/albertopastormr/ifesoft

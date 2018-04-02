@@ -69,7 +69,7 @@
 
 .project-link {
   display: block;
-  width: 100px;
+  width: 80px;
   margin: 10px 0px;
   padding: 5px;
   color: $main;
@@ -98,5 +98,28 @@
     transition: color 0.3s ease-in,
                 background-color 0.3s ease-in,
                 border-color 0.3s ease-in;
+  }
+}
+
+.ref-link{
+  color: rgb(9, 117, 108);
+  display: inline-block;
+  position: relative;
+  text-decoration: none;
+  &:before {
+    background-color: rgb(9, 117, 108);
+    content: '';
+    height: 2px;
+    position: absolute;
+    bottom: -1px;
+    left: 50%;
+    transform: translateX(-50%);
+    transition: width 0.3s ease-in-out;
+    width: 100%;
+  }
+  &:hover {
+    &:before {
+       width: 0;
+    }
   }
 }

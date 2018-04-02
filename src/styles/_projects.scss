@@ -78,6 +78,7 @@
   border-radius: 10px;
   text-align: center;
   outline: none;
+  font-size: 80%;
   text-decoration: none;
   cursor: pointer;
   transition: color 0.3s ease-out,
@@ -101,7 +102,7 @@
   }
 }
 
-.ref-link{
+.ref-link {
   color: rgb(9, 117, 108);
   display: inline-block;
   position: relative;

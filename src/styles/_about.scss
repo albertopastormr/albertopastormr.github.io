@@ -11,12 +11,6 @@
   margin: 10px;
 }
 
-.alb{
-  width:540px;
-  height:410px;
-  border-radius: 8px;
-}
-
 .user {
   text-align: center;
   font-size: 60px;
@@ -36,4 +30,8 @@
 .user-details {
   text-align: center;
   margin: 5px auto;
+}
+
+.user-details img.alb{
+  border-radius: 8px;
 }

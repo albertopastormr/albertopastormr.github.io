@@ -30,8 +30,12 @@
 .user-details {
   text-align: center;
   margin: 5px auto;
+
+  img {
+    border-radius: 8px;
+  }
 }
 
-.user-details img.alb{
+.user-details img.alb {
   border-radius: 8px;
 }
